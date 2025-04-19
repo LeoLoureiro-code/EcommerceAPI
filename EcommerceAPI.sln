@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceAPI", "EcommerceAPI\EcommerceAPI.csproj", "{D81ECFD6-0BFA-44C1-8385-81B818BF713C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceAPI.DataAccess.EF", "ECommerceAPI.DataAccess.EF\ECommerceAPI.DataAccess.EF.csproj", "{B4354C31-85F0-4A34-BD68-E9AA707854EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D81ECFD6-0BFA-44C1-8385-81B818BF713C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D81ECFD6-0BFA-44C1-8385-81B818BF713C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D81ECFD6-0BFA-44C1-8385-81B818BF713C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4354C31-85F0-4A34-BD68-E9AA707854EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4354C31-85F0-4A34-BD68-E9AA707854EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4354C31-85F0-4A34-BD68-E9AA707854EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4354C31-85F0-4A34-BD68-E9AA707854EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
